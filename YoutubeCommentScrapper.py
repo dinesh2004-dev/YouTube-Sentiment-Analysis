@@ -9,7 +9,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # Replace with your own API key
-DEVELOPER_KEY = st.secrets["AIzaSyAYi0RunCKtuX5tTb3PbTvSy018aH_LpXM"]
+DEVELOPER_KEY = st.secrets["replace with your api"]
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 # Create a client object to interact with the YouTube API
